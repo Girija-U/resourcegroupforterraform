@@ -26,7 +26,7 @@ subscription_id="6babc3f8-793c-4200-9aa3-51e8d33ff572"
 }
 
 variable "rgname" {
-  default = "terraformrggu123"
+  default = "terraformrggu1234"
 }
 variable "location" {
   default = "West US 3"
